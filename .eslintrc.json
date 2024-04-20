@@ -1,0 +1,9 @@
+{
+    "env": {},
+    "rules": {},
+    "parserOptions": {
+        "ecmaFeatures": {},
+        "ecmaVersion": "latest",
+        "sourceType": "module"
+    }
+}
